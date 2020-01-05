@@ -18,5 +18,8 @@
     <ClCompile Include="detective-pikaptcha-ep1.cpp">
       <Filter>Ressourcendateien</Filter>
     </ClCompile>
+    <ClCompile Include="the-last-crusade-episode-1.cpp">
+      <Filter>Ressourcendateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
